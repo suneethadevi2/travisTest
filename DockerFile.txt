@@ -1,3 +1,0 @@
-from golang
-COPY First.go .
-RUN
