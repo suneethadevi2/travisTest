@@ -1,4 +1,1 @@
-language: go
-script:
-  - echo hello
-  - env
+language: java
